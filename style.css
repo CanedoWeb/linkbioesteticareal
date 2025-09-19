@@ -163,6 +163,18 @@ ul li a img {
     width: 80px;
 }
 
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer h3, p{
+    color: rgba(255, 255, 255, 0.525);
+    font-family: "arial", serif;
+}
+
 /* Media Queries para Responsividade */
 
 /* Tablets */
